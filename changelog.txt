@@ -1,0 +1,22 @@
+Theme : Nictitate (wordpress.org release)
+Version : 1.0.2
+Author : Kopatheme - http://kopatheme.com
+
+December 17 2013 - 1.0.1
+===========================================================
+Updated: built-in shortcodes plugin v1.0.1
+Updated: external and static page url options for services
+Updated: tgmpa class
+Fixed: option for switching between wide and box layout
+
+January 6 2014 - 1.0.2
+===========================================================
+Updated: theme uri
+Updated: combine custom post types and shortcodes to a toolkit plugin
+Updated: combine theme options, sidebar manager and layout manager into one page with 3 tabs
+Updated: copyright declaration
+Replaced: icomoon by fontawesome
+Removed: isotope jquery plugin
+Removed: update message in admin pages
+Removed: some defined url - functions.php
+Removed: jquery-1.8.3.min

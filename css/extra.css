@@ -1,0 +1,9 @@
+/* 
+ * Extra styles for nictitate theme
+ *
+ * Table of contents
+ * 1. Sticky header position when user logged in
+ */
+.logged-in .sticky-header {
+	top: 28px;
+}
